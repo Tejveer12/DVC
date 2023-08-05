@@ -1,0 +1,6 @@
+outs:
+- md5: 84d4a822ed74583f015021d47126f812
+  size: 520808
+  isexec: true
+  hash: md5
+  path: photo1.jpg
